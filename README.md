@@ -1,6 +1,6 @@
 # Shell-编程基础
 　　该系列文集主要介绍的是，关于Linux下的Shell编程基础，包括以下内容：
-## 1. Shell变量
+## [1. Shell变量](https://github.com/solar555/Shell-Basic-Programming-/blob/master/1.Shell%E5%8F%98%E9%87%8F.md)
 ## 2. Linux下使用vi方向键乱码、删除键无效的解决方案
 ## 3. Shell 传递参数
 ## 4. Shell 数组
